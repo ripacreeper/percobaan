@@ -1,1 +1,3 @@
-rencana baru 2
+laravel
+vscode
+react
