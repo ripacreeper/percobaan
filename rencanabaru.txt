@@ -1,3 +1,6 @@
+ini adalah percobaan pertama
 laravel
+vscode
+react
 javascript
 mysql
